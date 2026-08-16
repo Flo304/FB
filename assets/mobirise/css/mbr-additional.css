@@ -1104,10 +1104,25 @@ a {
   object-fit: cover;
   min-height: 1px;
 }
+.cid-vsuCLxnQpd {
+  background-image: url("../../../assets/images/background6.jpg");
+}
+.cid-vsuCLxnQpd .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vsuCLxnQpd .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-sFGSOnwtIp {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #4d6d9a;
+  background-color: #000000;
   overflow: hidden;
 }
 .cid-sFGMsvHDIa .navbar-dropdown {
