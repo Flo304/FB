@@ -687,11 +687,12 @@ a {
   outline-offset: 2px !important;
   transition: outline 0.2s ease-in-out;
 }
-.cid-sFGMsvHDIa .navbar-dropdown {
-  position: relative !important;
+.cid-sFGMsvHDIa {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-sFGMsvHDIa .navbar-dropdown {
-  position: absolute !important;
+.cid-sFGMsvHDIa nav.navbar {
+  position: fixed;
 }
 .cid-sFGMsvHDIa .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -754,7 +755,7 @@ a {
 }
 .cid-sFGMsvHDIa .dropdown-menu,
 .cid-sFGMsvHDIa .navbar.opened {
-  background: #ffffff !important;
+  background: #919191 !important;
 }
 .cid-sFGMsvHDIa .nav-item:focus,
 .cid-sFGMsvHDIa .nav-link:focus {
@@ -788,7 +789,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(145, 145, 145, 0.2);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -933,7 +934,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sFGMsvHDIa .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #919191;
 }
 .cid-sFGMsvHDIa .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1006,6 +1007,7 @@ a {
 }
 .cid-sFGMsvHDIa .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-sFGMsvHDIa a.nav-link {
   display: flex;
@@ -1512,11 +1514,12 @@ a {
   background-color: #bbbbbb;
   overflow: hidden;
 }
-.cid-sFGMsvHDIa .navbar-dropdown {
-  position: relative !important;
+.cid-sFGMsvHDIa {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-sFGMsvHDIa .navbar-dropdown {
-  position: absolute !important;
+.cid-sFGMsvHDIa nav.navbar {
+  position: fixed;
 }
 .cid-sFGMsvHDIa .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1579,7 +1582,7 @@ a {
 }
 .cid-sFGMsvHDIa .dropdown-menu,
 .cid-sFGMsvHDIa .navbar.opened {
-  background: #ffffff !important;
+  background: #919191 !important;
 }
 .cid-sFGMsvHDIa .nav-item:focus,
 .cid-sFGMsvHDIa .nav-link:focus {
@@ -1613,7 +1616,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(145, 145, 145, 0.2);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -1758,7 +1761,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sFGMsvHDIa .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #919191;
 }
 .cid-sFGMsvHDIa .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1831,6 +1834,7 @@ a {
 }
 .cid-sFGMsvHDIa .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-sFGMsvHDIa a.nav-link {
   display: flex;
@@ -1865,11 +1869,12 @@ a {
   background-color: #bbbbbb;
   overflow: hidden;
 }
-.cid-vsxQOUyUKx .navbar-dropdown {
-  position: relative !important;
+.cid-vsxQOUyUKx {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-vsxQOUyUKx .navbar-dropdown {
-  position: absolute !important;
+.cid-vsxQOUyUKx nav.navbar {
+  position: fixed;
 }
 .cid-vsxQOUyUKx .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1932,7 +1937,7 @@ a {
 }
 .cid-vsxQOUyUKx .dropdown-menu,
 .cid-vsxQOUyUKx .navbar.opened {
-  background: #fafafa !important;
+  background: #919191 !important;
 }
 .cid-vsxQOUyUKx .nav-item:focus,
 .cid-vsxQOUyUKx .nav-link:focus {
@@ -1966,7 +1971,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(250, 250, 250, 0.2);
+  background: rgba(145, 145, 145, 0.2);
 }
 .cid-vsxQOUyUKx .navbar.opened {
   transition: all 0.3s;
@@ -2111,7 +2116,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-vsxQOUyUKx .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #fafafa;
+  background: #919191;
 }
 .cid-vsxQOUyUKx .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2142,7 +2147,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-vsxQOUyUKx button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2184,6 +2189,7 @@ a {
 }
 .cid-vsxQOUyUKx .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-vsxQOUyUKx a.nav-link {
   display: flex;
