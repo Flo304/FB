@@ -64,7 +64,7 @@
     "uniqCompNum": 130,
     "versionPublish": "6.1.12",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "favicon": false,
     "mbrsiteDomain": "1y8xsya3yt",
     "usedWebp": false,
