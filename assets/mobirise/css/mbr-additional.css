@@ -34,7 +34,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
   line-height: 1.5;
 }
@@ -786,7 +786,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.6);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -1720,7 +1720,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.6);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -4648,7 +4648,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.6);
 }
 .cid-vsxQOUyUKx .navbar.opened {
   transition: all 0.3s;
@@ -5370,6 +5370,62 @@ a {
 }
 .cid-vtejwdI7Zv .mbr-text {
   text-align: justify;
+}
+.cid-vuOtLBkWuN {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-vuOtLBkWuN .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vuOtLBkWuN .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-vuOtLBkWuN .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-vuOtLBkWuN .row {
+  flex-direction: row-reverse;
+}
+.cid-vuOtLBkWuN img {
+  width: 100%;
+}
+.cid-vuOvAzHuXp {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-vuOvAzHuXp .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vuOvAzHuXp .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-vuOvAzHuXp .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-vuOvAzHuXp .row {
+  flex-direction: row-reverse;
+}
+.cid-vuOvAzHuXp img {
+  width: 100%;
 }
 .cid-sFGMsvHDIa {
   z-index: 1000;
